@@ -8,8 +8,6 @@ const Home = ({
 	horas,
 	dias,
 	resetearContador,
-	paraContador,
-
 }) => {
 	return (
 		<>

@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://images3.alphacoders.com/114/thumb-1920-114175.jpg");
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/67/766/495/formula-drift-ken-gushi-gt86-ford-mustang-rtr-wallpaper-preview.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -9,7 +9,32 @@ body {
     height: 250px;
 }
 
+.cuadrado {
+    background-color: blue;
+}
+
 .ventana {
     border-radius: 50px;
     box-shadow: 20px 20px 50px 15px rgb(62, 152, 226);
+}
+
+button {
+    color: #f10e3f !important;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    background: rgba(0, 0, 0, 0);
+    border: 2px solid;
+    border-color: #318aac;
+    transition: all 1s ease;
+    position: relative;
+    border-radius: 15px;
+    background: white;
+
+}
+
+button:hover {
+    background: #0d0d0e;
+    color: rgb(79, 230, 20) !important;
+
 }
