@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/67/766/495/formula-drift-ken-gushi-gt86-ford-mustang-rtr-wallpaper-preview.jpg");
+    background-image: url("https://i.pinimg.com/736x/19/12/b5/1912b58cd05cd7e999ff8cf85e2d8155--ford-mustangs-ken-block.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -30,11 +30,21 @@ button {
     position: relative;
     border-radius: 15px;
     background: white;
-
 }
 
 button:hover {
     background: #0d0d0e;
     color: rgb(79, 230, 20) !important;
 
+}
+
+.logo1 {
+    width: 100%;
+    margin: auto;
+}
+
+.postcard-footer {
+    color: white;
+    margin: auto;
+    text-align: center;
 }
